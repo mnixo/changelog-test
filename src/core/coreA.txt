@@ -1,1 +1,2 @@
 Content of coreA.txt.
+Changed coreA.
